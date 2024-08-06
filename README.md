@@ -2,12 +2,9 @@
 People Counter and Face Recognition System
 
 This project demonstrates my skills in real-time image capture, face detection, face recognition technology & Machine learning. It provides practical applications for security and personal use by combining several advanced technologies.
-### Real-time People Counting:
-Utilizes YOLO (You Only Look Once) object detection model, OpenCV, and SORT (Simple Online and Realtime Tracking) algorithm to track and count people in a video feed or from a webcam. This feature is ideal for monitoring entries and exits in a specified area.
-### Face Recognition Integration:
-Employs face recognition technology to identify and display matching faces from a database, enhancing security measures or personal identification tasks.
-### Graphical User Interface (GUI): 
-Incorporates a user-friendly GUI to interactively display results, making it easy to use for non-technical users. This interface provides real-time feedback and visual representation of detected and recognized faces.
+__Real-time People Counting__:Utilizes YOLO (You Only Look Once) object detection model, OpenCV, and SORT (Simple Online and Realtime Tracking) algorithm to track and count people in a video feed or from a webcam. This feature is ideal for monitoring entries and exits in a specified area.
+__Face Recognition Integration__: Employs face recognition technology to identify and display matching faces from a database, enhancing security measures or personal identification tasks.
+__Graphical User Interface (GUI)__: Incorporates a user-friendly GUI to interactively display results, making it easy to use for non-technical users. This interface provides real-time feedback and visual representation of detected and recognized faces.
 
 This Project includes a few of python files try running them after installing the required libraries
 ## FaceDetection.py:
